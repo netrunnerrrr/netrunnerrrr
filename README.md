@@ -4,3 +4,5 @@
 - **Бэкенд**: Node.js, Django, Flask
 - **Базы данных**: PostgreSQL, MongoDB
 - **Инструменты**: Git, Docker, Kubernetes
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
