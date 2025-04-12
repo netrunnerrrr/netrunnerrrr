@@ -1,8 +1,6 @@
-### 🛠️ Мой стек технологий:
-- **Языки программирования**: Python, JavaScript, TypeScript, Java
-- **Фронтенд**: React, Vue, HTML/CSS
-- **Бэкенд**: Node.js, Django, Flask
-- **Базы данных**: PostgreSQL, MongoDB
-- **Инструменты**: Git, Docker, Kubernetes
-*.js linguist-language=JavaScript
-*.py linguist-language=Python
+# Hi! I'm Michael Budnikov. Student of software engeneering major
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishanya00&show_icons=true&theme=dark&title_color=ffffff&text_color=ececec&locale=en" alt="mishanya00" /></p>
